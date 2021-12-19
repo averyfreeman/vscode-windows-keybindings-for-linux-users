@@ -1,0 +1,62 @@
+// For people using Linux who are clinging to Windows-acquired muscle-memory 
+[
+	{
+		"key": "ctrl+shift+right",
+		"command": "-workbench.action.terminal.resizePaneRight",
+		"when": "terminalFocus && terminalProcessSupported"
+	},
+	{
+		"key": "ctrl+alt+backspace",
+		"command": "workbench.action.terminal.kill"
+	},
+	{
+		"key": "ctrl+shift+alt+enter",
+		"command": "bracket-pair-colorizer-2.expandBracketSelection"
+	},
+	{
+		"key": "ctrl+shift+alt+backspace",
+		"command": "bracket-pair-colorizer-2.undoBracketSelection"
+	},
+	{
+		"key": "ctrl+alt+up",
+		"command": "editor.action.insertCursorAbove",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+down",
+		"command": "editor.action.insertCursorBelow",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "shift+alt+up",
+		"command": "editor.action.copyLinesUpAction",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "shift+alt+down",
+		"command": "editor.action.copyLinesDownAction",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "alt+up",
+		"command": "editor.action.moveLinesUpAction",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+up",
+		"command": "editor.action.insertCursorAbove",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+alt+down",
+		"command": "editor.action.insertCursorBelow",
+		"when": "editorTextFocus"
+	}
+	// {
+	// 	"key": "ctrl",
+	// 	"command": "editor.action.toggleMultiCursorModifier",
+	// 	"when": "editorTextFocus"
+	// also attempted setting in 'settings.json' / doesn't work, alt does
+	// }
+]
+
