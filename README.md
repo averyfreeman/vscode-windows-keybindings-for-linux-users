@@ -1,9 +1,11 @@
-# VS Code `keybindings.json` file
+# My VS Code `keybindings.json` for Linux machines with shortcuts from Windows
 ---
 
-### User-defined keyboard shortcuts for Linux users who are still more used to Windows...
+#### Part two of my on-going text-editor keybindings series:
 
-#### ...and have absolutely no interest in changing
+#### "Change is hard! For the love of god, make it stop!"
+
+[part one](https://github.com/averyfreeman/vscode-keybindings-for-sublime)
 
 Ever start to code and attempt a shortcut you're used to, only to have it do something else?
 
