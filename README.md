@@ -21,6 +21,12 @@ It only makes sense to use these keybindings if you're using VS Code for Linux. 
 
 In Mac OS it'll have unpredictable effects, as it has not yet been tested, but feel free to try it and open an issue or PR with your findings. We could always add another file for Mac OS users, or create another repo.
 
+**Why didn't I just copy the entire default `keybindings.json` file** from Windows and paste it into `keybindings.json`?  Good question!
+
+For one, I don't really care about all of the shortcuts being the same, only the ones I use regularly and make it more difficult for me to code in Linux.  But a more important reason is that it's prudent to go through each one, one by one, and do some testing to see how it interacts with the system.  That's what I've done here.
+
+If you would like to paste in the default Windows keybindings whole-hog, [you can find them here](https://github.com/codebling/vs-code-default-keybindings/blob/master/windows.keybindings.json).  Let 'er rip!
+
 **Tested/Developed:** `KDE Plasma v5.23.4 on Arch Linux X11`
 
 Just copy the `keybindings.json` from this repo into your Linux VS Code `keybindings.json` file.  
