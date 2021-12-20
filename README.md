@@ -13,7 +13,7 @@ We're staunch.  We're recalcitrant.  We are *totally* averse to change.  After a
 
 If your muscle memory has been deeply impacted by learning VS Code in Windows, fear not, you can switch to Linux and benefit from all its development environments provide without having to throw out countless months of threadbare kinetic familiarity.
 
-Purpose of this repo: Currently, this repo is only meant for introducing keybindings to VS Code in Linux to make it feel more like using VS Code in Windows.  If you have more *default* keybindings you'd like to add, I'd rather you open an issue or PR so we can keep them all in one place.
+**Purpose of this repo:** Currently, this repo is only meant for introducing keybindings to VS Code in Linux to make it feel more like using VS Code in Windows.  If you have more *default* keybindings you'd like to add, I'd rather you open an issue or PR so we can keep them all in one place.
 
 Please fork if you intend to change the purpose of the repo.
 
